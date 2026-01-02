@@ -2,7 +2,10 @@ import React from 'react'
 
 function manager() {
   return (
-    <div>manager</div>
+    <div>
+          <h1 className="">this is manager page </h1>
+
+    </div>
   )
 }
 
